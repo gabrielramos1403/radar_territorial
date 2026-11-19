@@ -260,6 +260,6 @@ flutter run --dart-define=URL_CLIMA=https://api.open-meteo.com/v1/forecast \
 
 ## 9. Vídeo
 
-▶️ **[Assistir à demonstração no YouTube](https://youtu.be/LINK_DO_VIDEO)** (até 3 minutos)
+▶️ **[Assistir à demonstração no YouTube](https://youtube.com/shorts/loto0xW6gog?feature=share)** (até 3 minutos)
 
 
