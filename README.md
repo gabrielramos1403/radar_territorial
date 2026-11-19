@@ -262,6 +262,4 @@ flutter run --dart-define=URL_CLIMA=https://api.open-meteo.com/v1/forecast \
 
 ▶️ **[Assistir à demonstração no YouTube](https://youtu.be/LINK_DO_VIDEO)** (até 3 minutos)
 
-## 10. Licença
 
-Projeto acadêmico desenvolvido para a **FIAP**, Global Solution 2026.2 (Cross-Platform Application Development). Uso educacional. Fonte Nunito sob licença SIL Open Font License 1.1. Dados de clima © Open-Meteo (CC BY 4.0).
