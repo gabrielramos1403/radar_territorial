@@ -1,4 +1,4 @@
-# Miscellaneous
+
 *.class
 *.log
 *.pyc
@@ -11,14 +11,12 @@
 .svn/
 migrate_working_dir/
 
-# IntelliJ / VS Code
 *.iml
 *.ipr
 *.iws
 .idea/
 .vscode/
 
-# Flutter/Dart/Pub
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
@@ -29,7 +27,6 @@ migrate_working_dir/
 /build/
 /coverage/
 
-# Android
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
 **/android/captures/
@@ -40,7 +37,6 @@ migrate_working_dir/
 **/android/key.properties
 *.jks
 
-# iOS
 **/ios/**/*.mode1v3
 **/ios/**/*.mode2v3
 **/ios/**/*.moved-aside
@@ -70,10 +66,9 @@ migrate_working_dir/
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
 
-# variaveis de ambiente / chaves (nao versionar)
 .env
 *.env
 env.json
 
-# apk gerado localmente (o apk vai na aba Releases do GitHub)
+
 *.apk
