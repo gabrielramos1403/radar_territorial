@@ -232,7 +232,7 @@ Fluxo dos dados: `services` busca → `TerritorioProvider` guarda e monta os ind
 
 ```bash
 # 1. clonar
-git clone https://github.com/gabrielramos1403/radar-territorial.git
+git clone https://github.com/gabrielramos1403/radar_territorial.git
 cd radar-territorial
 
 # 2. instalar as dependências
